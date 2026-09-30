@@ -1,0 +1,4 @@
+engine:
+  symbols: [BTCUSD, USDEUR, XAUEUR, SPCX]
+  queue-capacity: 10000
+  reply-timeout: 2s
